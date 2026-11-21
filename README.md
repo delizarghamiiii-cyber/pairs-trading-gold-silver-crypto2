@@ -127,5 +127,4 @@ results/                              tables (csv) and figures (png)
 
 Python (numpy, pandas, SciPy, statsmodels, matplotlib). Developed with the help of an AI
 assistant (Claude); all results were re-run and checked by the author.
-
-Author: **<Maryam Zarghami>**
+Author: **Maryam Zarghami**
